@@ -1,0 +1,4 @@
+1. Start
+2. jika x di bagi 2 sisa 1 maka itu ganjil
+3. jika tidak maka genap
+4. End

@@ -1,0 +1,7 @@
+1. Start
+2. Siapkan secangkir teh, kopi dengan ukuran yang sama
+3. Siapkan 1 cangkir kosong dengan ukuran yang sama
+4. Pindahkan air teh kedalam cangkir kosong
+5. Pindahkan air kopi kedalam cangkir teh yang telah kosong
+6. Pindahkan air teh kedalam cangkir kopi yang telah kosong
+7. End

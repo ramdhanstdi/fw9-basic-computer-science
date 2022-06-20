@@ -1,0 +1,8 @@
+1. Start
+2. buat variable phi dan jari
+3. masukan nilai ke variable phi sebesar 3,14
+4. masukan nilai jari sesuai dengan yang di inginkan
+5. buat variable luas dengan isian phi*jari*jari
+6. buat variable keliling dengan isian 2*phi*jari
+7. hasil di dapatkan
+8. End

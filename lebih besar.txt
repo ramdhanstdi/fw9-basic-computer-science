@@ -1,0 +1,9 @@
+1. Start 
+2. Buat variable x dan y
+3. jika nilai x lebih besar daripada y (x>y)
+4. beri keterangan x lebih besar
+5. jika nilai y lebih besar daripada x (x<y)
+6. beri keterangan y lebih besar 
+8. jika tidak keduanya 
+9. beri keterangan nilai keduanya sama 
+10. End

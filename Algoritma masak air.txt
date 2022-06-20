@@ -1,0 +1,7 @@
+1. Start
+2. Ambil panci
+3. Isi air ke dalam panci
+4. Letakan panci diatas kompor
+5. Hidupkan kompor
+6. Setelah air mendidih matikan kompor
+7. End
